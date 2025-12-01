@@ -23,7 +23,7 @@ This project performs **Exploratory Data Analysis (EDA)** on **Google Play Store
   - `Installs`: Total number of installs  
   - `Type`: Free or Paid app  
   - `Price`: Price of the app  
-  - `Content Rating`: Audience type (Teen, Everyone, etc.)  
+  - `Content Rating`: Audience type (Teen, Everyone, etc.) 
 
 ---
 
