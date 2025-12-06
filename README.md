@@ -1,4 +1,4 @@
-# EDA-GOOGLE-play-Store-Data-
+# EDA-GOOGLE-play-Store-Data
 
 
 # 📊 Google Play Store Data Analysis - EDA Project🚀  
