@@ -8,7 +8,7 @@ This project performs **Exploratory Data Analysis (EDA)** on **Google Play Store
 
 ### 💡 **Tech Stack Used:**  
 - 🐍 Python (Pandas, NumPy)  
-- 📊 Data Visualization: Matplotlib, Seaborn  
+- 📊 Data Visualization: Matplotlib, Seaborn   
 - 📄 Jupyter Notebook  
 - 🗄️ GitHub for version control  
 
