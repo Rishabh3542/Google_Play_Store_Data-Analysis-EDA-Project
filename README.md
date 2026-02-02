@@ -16,7 +16,7 @@ This project performs **Exploratory Data Analysis (EDA)** on **Google Play Store
 - **Dataset:** `googleplaystore.csv`  
 - **Columns:**  
   - `App`: Name of the application  
-  - `Category`: App category (e.g., Game, Business, etc.)  
+  - `Category`: App category (e.g., Game, Business, etc.)   
   - `Rating`: App rating (out of 5)  
   - `Reviews`: Total number of reviews  
   - `Size`: App size in MB  
